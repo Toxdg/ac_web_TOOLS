@@ -42,7 +42,7 @@ class ac_image_webp {
     }
     // set quality
     public function setquality($quality){
-        $this->quality = $source;
+        $this->quality = $quality;
     }
     
     // convert file
